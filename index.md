@@ -1,4 +1,4 @@
-ロボカップジャパンオープン講習会(https://github.com/Titan111/RC_TrainingSession/blob/master/autumn_camp_2016.md)
+[ロボカップジャパンオープン講習会](https://github.com/Titan111/RC_TrainingSession/blob/master/autumn_camp_2016.md)
 
 ## Welcome to GitHub Pages
 
