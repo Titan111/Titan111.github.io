@@ -1,5 +1,5 @@
 [ロボカップジャパンオープン講習会](https://github.com/Titan111/RC_TrainingSession/blob/master/autumn_camp_2016.md)
-
+<!--
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Titan111/Titan111.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -38,3 +38,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+-->
